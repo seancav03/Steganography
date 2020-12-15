@@ -9,3 +9,5 @@ Usage:
   --help   Displays the usage text and exits
   -o <output>  Outputs the unencoded data to a text file.  This is an optional parameter, so if it's missing then display the text on the screen.
   \<file\>   The file to decode
+
+There are some test images named as test#.png. Each has a message encoded in it which this program can extract.
