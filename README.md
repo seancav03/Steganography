@@ -1,5 +1,5 @@
 # Steganography Program
-###Python lab code to pull message from least significant bits of an input image.
+### Python lab code to pull message from least significant bits of an input image.
 
 First, use pip to download PIL, the library necessary for image processing.
 
